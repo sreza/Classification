@@ -1,1 +1,1 @@
-# Classification of approved loans into close/not close. 
+# Classification of approved loans into closing/not closing
